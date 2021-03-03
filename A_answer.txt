@@ -1,0 +1,7 @@
+A.
+1. Viết 1 chương trình kiểm tra output.
+2. Không cần thêm trường hợp nào.
+3. Với hàm sort trong thư viện algorithm, việc viết một chương trình sắp xếp tăng dần là không cần thiết.
+4. Tương tự bài 3, hàm sort có độ phức tạp O(nlog2n), đủ để đáp ứng những chương trình với input lớn.
+Rõ ràng với những test với input lớn, các thuật toán thông thường vẫn có thể chạy nhưng sẽ cho thời gian lâu.
+Do đó, cần những thuật toán tối ưu hơn với độ phức tạp nhỏ hơn.

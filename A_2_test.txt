@@ -1,0 +1,19 @@
+test a:
+3 5
+1 2 3 4 5
+test b:
+6 5
+1 2 3 4 5
+test c:
+6 0
+test d:
+6 1
+test e
+1 1
+1
+test f:
+1 5
+1 2 3 4 5
+test g:
+5 5
+1 2 3 4 5
